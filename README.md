@@ -13,13 +13,14 @@ Success: can we do a deeper search than
 
 
 
-Milestones:
-1. does an interface to search Github via API exist?
-2. query github repos for a string
-
 # query Github API
 
 * <https://docs.github.com/en/rest>
+* <https://docs.github.com/en/rest/search>
+* <https://docs.github.com/en/rest/search#search-repositories>
 * <https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api>
 * <https://docs.github.com/en/rest/repos/repos>
 
+# using the API
+
+In a browser, go to <https://api.github.com/>
